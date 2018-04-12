@@ -1,0 +1,21 @@
+Larnr Academy (A School Management System)
+
+This software will be system independent and will work on web, mobile & desktop. We will create mobile & web app alongwith cloud based desktop software.
+
+Features
+
+In this system students/parents can login to their profile to check the dues, pay the monthly tuition fees. (Later Updates: get the notifications from school, examination schedule, results of each students.)
+
+1. Users/Login
+    i. Student/Parent Login
+    ii. Teachers Login (Teacher Profile/personal details alongwith classes details)
+    iii. Admin Login (This is for School part, here we can have multiple users)
+        a. Super Admin/Admin Manager
+        b. Transport
+        c. Canteen
+        d. Library
+        e. Stationary (Details of school uniform/books/copy alongwith prices and features)
+
+2. Payment Gateway
+    i. PayUmoney
+    ii. Paytm
