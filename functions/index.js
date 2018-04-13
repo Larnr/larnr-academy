@@ -54,4 +54,4 @@ app.use(function (err, req, res, next) {
 // // Create and Deploy Your First Cloud Functions
 // // https://firebase.google.com/docs/functions/write-firebase-functions
 
-exports.myApp = functions.https.onRequest(app);
+exports.AcademyApp = functions.https.onRequest(app);

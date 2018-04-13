@@ -21,7 +21,7 @@
     "rewrites": [
       {
         "source": "**",
-        "function": "myApp"
+        "function": "AcademyApp"
         // "destination": "/index.html"
       }
     ]

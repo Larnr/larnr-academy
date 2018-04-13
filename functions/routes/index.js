@@ -3,12 +3,12 @@ var router = express.Router();
 
 router.get('/test', (req, res) => {
     res.set("Cache-Control", "public, max-age=300, s-maxage=600");
-    res.render('index');
+    res.render('index', {title: "Test Page"});
 });
 
 router.get('/data', (req, res) => {
     res.set("Cache-Control", "public, max-age=300, s-maxage=600");
-    res.render('data');
+    res.render('data', { title: "Data Page" });
 });
 
 module.exports = router;
