@@ -150,3 +150,257 @@ Execution took 1 ms, user function completed successfully
 2018-04-13T06:24:18.618Z - info: User function triggered, starting execution
 2018-04-13T06:24:18.649Z - info: Execution took 30 ms, user function completed successfully
 [0mGET /js/bootstrap.min.js.map [33m404 [0m27.596 ms - -[0m
+2018-04-13T07:09:06.078Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:09:06.134Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:09:21.952Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:09:22.002Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:09:23.392Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:09:23.454Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:10:12.536Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:10:12.604Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:10:17.867Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:10:17.918Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:10:23.852Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:10:23.907Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:10:24.780Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:10:24.910Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:10:29.299Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:10:29.369Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:11:11.061Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:11:11.124Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:11:23.058Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:11:23.287Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:11:25.004Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:11:25.067Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:19:19.314Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:19:19.365Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:19:22.168Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:19:22.228Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:22:03.698Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:22:03.754Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:22:08.301Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:22:08.363Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:22:09.307Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:22:09.512Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:22:12.305Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:22:12.353Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:22:13.484Z - error: /usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80
+      throw new Error(`No function found with name ${cloudfunction.entryPoint || name}`);
+      ^
+
+Error: No function found with name myApp
+    at process.on (/usr/local/lib/node_modules/firebase-tools/node_modules/@google-cloud/functions-emulator/src/supervisor/worker.js:80:13)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-04-13T07:22:13.547Z - error: Function worker crashed with exit code: 1
+2018-04-13T07:23:08.449Z - info: User function triggered, starting execution
+2018-04-13T07:23:09.290Z - info: Execution took 843 ms, user function completed successfully
+2018-04-13T07:23:09.291Z - info: [0mGET /test [32m200 [0m832.999 ms - 291[0m
+2018-04-13T07:23:10.347Z - info: User function triggered, starting execution
+2018-04-13T07:23:10.375Z - info: Execution took 28 ms, user function completed successfully
+2018-04-13T07:23:10.376Z - info: [0mGET /favicon.ico [33m404 [0m19.780 ms - -[0m
+2018-04-13T07:23:20.586Z - info: User function triggered, starting execution
+2018-04-13T07:23:20.600Z - info: Execution took 13 ms, user function completed successfully
+[0mGET /test [32m200 [0m11.656 ms - 291[0m
+2018-04-13T07:23:31.279Z - info: User function triggered, starting execution
+2018-04-13T07:23:31.302Z - info: Execution took 23 ms, user function completed successfully
+[0mGET /test [32m200 [0m21.282 ms - 291[0m
+2018-04-13T07:23:49.647Z - info: User function triggered, starting execution
+2018-04-13T07:23:49.665Z - info: Execution took 17 ms, user function completed successfully
+[0mGET /test [32m200 [0m14.411 ms - 291[0m
+2018-04-13T07:23:58.244Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T07:23:58.247Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T07:24:28.105Z - info: User function triggered, starting execution
+2018-04-13T07:24:28.875Z - info: Execution took 771 ms, user function completed successfully
+2018-04-13T07:24:28.886Z - info: [0mGET /test [32m200 [0m757.480 ms - 291[0m
+2018-04-13T07:24:42.769Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T07:24:47.976Z - info: User function triggered, starting execution
+2018-04-13T07:24:48.596Z - info: Execution took 621 ms, user function completed successfully
+2018-04-13T07:24:48.608Z - info: [0mGET /test [32m200 [0m609.301 ms - 291[0m
+2018-04-13T07:26:53.165Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T07:27:56.787Z - info: User function triggered, starting execution
+2018-04-13T07:27:57.541Z - info: Execution took 755 ms, user function completed successfully
+2018-04-13T07:27:57.546Z - info: [0mGET /test [32m200 [0m742.786 ms - 291[0m
+2018-04-13T07:28:01.687Z - info: User function triggered, starting execution
+2018-04-13T07:28:01.704Z - info: Execution took 17 ms, user function completed successfully
+[0mGET /test [32m200 [0m15.352 ms - 291[0m
+2018-04-13T07:28:07.567Z - info: User function triggered, starting execution
+2018-04-13T07:28:07.584Z - info: Execution took 16 ms, user function completed successfully
+[0mGET /academy [32m200 [0m15.233 ms - 294[0m
+2018-04-13T07:29:11.162Z - info: User function triggered, starting execution
+2018-04-13T07:29:12.018Z - info: Execution took 859 ms, user function completed successfully
+2018-04-13T07:29:12.032Z - info: [0mGET / [32m200 [0m844.904 ms - 292[0m
+2018-04-13T07:38:40.309Z - info: Worker for AcademyApp closed due to file changes.
