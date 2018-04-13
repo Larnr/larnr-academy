@@ -404,3 +404,224 @@ Error: No function found with name myApp
 2018-04-13T07:29:12.018Z - info: Execution took 859 ms, user function completed successfully
 2018-04-13T07:29:12.032Z - info: [0mGET / [32m200 [0m844.904 ms - 292[0m
 2018-04-13T07:38:40.309Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T11:23:48.660Z - info: User function triggered, starting execution
+2018-04-13T11:23:49.683Z - info: Execution took 1026 ms, user function completed successfully
+2018-04-13T11:23:49.684Z - info: [0mGET / [32m200 [0m1005.919 ms - -[0m
+2018-04-13T11:23:50.861Z - info: User function triggered, starting execution
+2018-04-13T11:23:50.931Z - info: Execution took 70 ms, user function completed successfully
+2018-04-13T11:23:50.932Z - info: [0mGET /favicon.ico [33m404 [0m33.167 ms - -[0m
+2018-04-13T11:24:27.655Z - info: User function triggered, starting execution
+2018-04-13T11:24:28.494Z - info: Execution took 841 ms, user function completed successfully
+2018-04-13T11:24:28.498Z - info: [0mGET / [32m200 [0m785.498 ms - -[0m
+2018-04-13T11:24:47.299Z - info: User function triggered, starting execution
+2018-04-13T11:24:47.709Z - info: Execution took 410 ms, user function completed successfully
+2018-04-13T11:24:47.712Z - info: [0mGET / [32m200 [0m357.917 ms - -[0m
+2018-04-13T11:25:08.737Z - info: User function triggered, starting execution
+2018-04-13T11:25:09.144Z - info: Execution took 408 ms, user function completed successfully
+2018-04-13T11:25:09.146Z - info: [0mGET / [32m200 [0m355.418 ms - -[0m
+2018-04-13T11:26:28.238Z - info: User function triggered, starting execution
+2018-04-13T11:26:29.076Z - info: Execution took 839 ms, user function completed successfully
+2018-04-13T11:26:29.079Z - info: [0mGET / [32m200 [0m792.990 ms - -[0m
+2018-04-13T11:27:03.983Z - info: User function triggered, starting execution
+2018-04-13T11:27:04.741Z - info: Execution took 759 ms, user function completed successfully
+2018-04-13T11:27:04.743Z - info: [0mGET / [32m200 [0m713.617 ms - -[0m
+2018-04-13T11:27:17.433Z - info: User function triggered, starting execution
+2018-04-13T11:27:17.488Z - info: Execution took 55 ms, user function completed successfully
+[0mGET / [32m200 [0m52.830 ms - -[0m
+2018-04-13T11:27:39.204Z - info: User function triggered, starting execution
+2018-04-13T11:27:39.994Z - info: Execution took 791 ms, user function completed successfully
+2018-04-13T11:27:39.996Z - info: [0mGET / [32m200 [0m735.973 ms - -[0m
+2018-04-13T11:28:16.046Z - info: User function triggered, starting execution
+2018-04-13T11:28:16.771Z - info: Execution took 725 ms, user function completed successfully
+2018-04-13T11:28:16.773Z - info: [0mGET / [32m200 [0m670.380 ms - -[0m
+2018-04-13T11:29:04.832Z - info: User function triggered, starting execution
+2018-04-13T11:29:05.644Z - info: Execution took 813 ms, user function completed successfully
+2018-04-13T11:29:05.647Z - info: [0mGET / [32m200 [0m768.717 ms - -[0m
+2018-04-13T11:29:41.100Z - info: User function triggered, starting execution
+2018-04-13T11:29:41.845Z - info: Execution took 746 ms, user function completed successfully
+2018-04-13T11:29:41.847Z - info: [0mGET / [32m200 [0m719.460 ms - -[0m
+2018-04-13T11:30:20.769Z - info: User function triggered, starting execution
+2018-04-13T11:30:21.465Z - info: Execution took 694 ms, user function completed successfully
+2018-04-13T11:30:21.467Z - info: [0mGET / [32m200 [0m676.366 ms - -[0m
+2018-04-13T11:31:44.829Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T11:31:51.132Z - info: User function triggered, starting execution
+2018-04-13T11:31:51.893Z - info: Execution took 762 ms, user function completed successfully
+2018-04-13T11:31:51.898Z - info: [0mGET / [32m200 [0m742.535 ms - -[0m
+2018-04-13T11:32:06.360Z - info: User function triggered, starting execution
+2018-04-13T11:32:06.407Z - info: Execution took 47 ms, user function completed successfully
+[0mGET / [32m200 [0m44.965 ms - -[0m
+2018-04-13T11:33:46.765Z - info: User function triggered, starting execution
+2018-04-13T11:33:47.533Z - info: Execution took 770 ms, user function completed successfully
+2018-04-13T11:33:47.536Z - info: [0mGET / [32m200 [0m752.986 ms - -[0m
+2018-04-13T11:34:07.046Z - info: User function triggered, starting execution
+2018-04-13T11:34:07.108Z - info: Execution took 61 ms, user function completed successfully
+[0mGET /test [32m200 [0m58.938 ms - -[0m
+2018-04-13T11:34:12.328Z - info: User function triggered, starting execution
+2018-04-13T11:34:12.384Z - info: Execution took 55 ms, user function completed successfully
+[0mGET /data [32m200 [0m53.089 ms - 291[0m
+2018-04-13T11:34:21.914Z - info: User function triggered, starting execution
+2018-04-13T11:34:21.968Z - info: Execution took 53 ms, user function completed successfully
+[0mGET /academy [32m200 [0m52.118 ms - -[0m
+2018-04-13T11:34:55.885Z - info: User function triggered, starting execution
+2018-04-13T11:34:56.692Z - info: Execution took 809 ms, user function completed successfully
+2018-04-13T11:34:56.697Z - info: [0mGET /academy [32m200 [0m776.295 ms - -[0m
+2018-04-13T11:39:40.341Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T11:40:33.030Z - info: User function triggered, starting execution
+2018-04-13T11:40:33.838Z - info: Execution took 809 ms, user function completed successfully
+2018-04-13T11:40:33.848Z - info: [0mGET /academy [32m200 [0m784.827 ms - -[0m
+2018-04-13T11:40:50.150Z - info: User function triggered, starting execution
+2018-04-13T11:40:50.208Z - info: Execution took 57 ms, user function completed successfully
+[0mGET /academy [32m200 [0m53.142 ms - -[0m
+2018-04-13T11:40:54.770Z - info: User function triggered, starting execution
+2018-04-13T11:40:54.819Z - info: Execution took 48 ms, user function completed successfully
+[0mGET /academy [32m200 [0m47.329 ms - -[0m
+2018-04-13T11:41:37.457Z - info: User function triggered, starting execution
+2018-04-13T11:41:38.274Z - info: Execution took 819 ms, user function completed successfully
+2018-04-13T11:41:38.278Z - info: [0mGET /academy [32m200 [0m789.770 ms - -[0m
+2018-04-13T11:42:05.676Z - info: User function triggered, starting execution
+2018-04-13T11:42:06.401Z - info: Execution took 722 ms, user function completed successfully
+[0mGET /academy [32m200 [0m704.771 ms - -[0m
+2018-04-13T11:42:22.715Z - info: User function triggered, starting execution
+2018-04-13T11:42:23.437Z - info: Execution took 723 ms, user function completed successfully
+2018-04-13T11:42:23.440Z - info: [0mGET /academy [32m200 [0m693.647 ms - -[0m
+2018-04-13T11:42:36.346Z - info: User function triggered, starting execution
+2018-04-13T11:42:36.737Z - info: Execution took 393 ms, user function completed successfully
+2018-04-13T11:42:36.741Z - info: [0mGET /academy [32m200 [0m365.732 ms - -[0m
+2018-04-13T11:42:48.360Z - info: User function triggered, starting execution
+2018-04-13T11:42:48.742Z - info: Execution took 384 ms, user function completed successfully
+2018-04-13T11:42:48.745Z - info: [0mGET /academy [32m200 [0m354.519 ms - -[0m
+2018-04-13T11:44:52.432Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T11:44:55.955Z - info: User function triggered, starting execution
+2018-04-13T11:44:56.718Z - info: Execution took 764 ms, user function completed successfully
+2018-04-13T11:44:56.721Z - info: [0mGET /academy [32m200 [0m746.259 ms - -[0m
+2018-04-13T11:45:16.138Z - info: User function triggered, starting execution
+2018-04-13T11:45:16.751Z - info: Execution took 614 ms, user function completed successfully
+2018-04-13T11:45:16.763Z - info: [0mGET /academy [32m200 [0m595.892 ms - -[0m
+2018-04-13T11:45:51.348Z - info: User function triggered, starting execution
+2018-04-13T11:45:52.129Z - info: Execution took 779 ms, user function completed successfully
+[0mGET /academy [32m200 [0m756.612 ms - -[0m
+2018-04-13T11:46:27.585Z - info: User function triggered, starting execution
+2018-04-13T11:46:28.395Z - info: Execution took 812 ms, user function completed successfully
+2018-04-13T11:46:28.399Z - info: [0mGET /academy [32m200 [0m779.230 ms - -[0m
+2018-04-13T12:43:05.148Z - info: User function triggered, starting execution
+2018-04-13T12:43:05.959Z - info: Execution took 812 ms, user function completed successfully
+2018-04-13T12:43:05.961Z - info: [0mGET /academy [32m200 [0m795.636 ms - -[0m
+2018-04-13T12:43:39.948Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T12:43:44.366Z - info: User function triggered, starting execution
+2018-04-13T12:43:45.099Z - info: Execution took 734 ms, user function completed successfully
+2018-04-13T12:43:45.102Z - info: [0mGET /academy [32m200 [0m715.876 ms - -[0m
+2018-04-13T12:44:36.439Z - info: User function triggered, starting execution
+2018-04-13T12:44:37.185Z - info: Execution took 746 ms, user function completed successfully
+2018-04-13T12:44:37.185Z - info: [0mGET /academy [32m200 [0m726.933 ms - -[0m
+2018-04-13T12:45:12.879Z - info: User function triggered, starting execution
+2018-04-13T12:45:13.625Z - info: Execution took 747 ms, user function completed successfully
+2018-04-13T12:45:13.628Z - info: [0mGET /academy [32m200 [0m694.095 ms - -[0m
+2018-04-13T12:45:37.522Z - info: User function triggered, starting execution
+2018-04-13T12:45:38.379Z - info: Execution took 858 ms, user function completed successfully
+2018-04-13T12:45:38.381Z - info: [0mGET /academy [32m200 [0m814.989 ms - -[0m
+2018-04-13T12:47:39.011Z - info: Worker for AcademyApp closed due to file changes.
+2018-04-13T12:47:42.785Z - info: User function triggered, starting execution
+2018-04-13T12:47:43.592Z - info: Execution took 808 ms, user function completed successfully
+2018-04-13T12:47:43.594Z - info: [0mGET /academy [32m200 [0m789.349 ms - -[0m
+2018-04-13T12:48:14.409Z - info: User function triggered, starting execution
+2018-04-13T12:48:15.206Z - info: Execution took 797 ms, user function completed successfully
+2018-04-13T12:48:15.208Z - info: [0mGET /academy [32m200 [0m743.077 ms - -[0m
+2018-04-13T12:48:48.244Z - info: User function triggered, starting execution
+2018-04-13T12:48:48.996Z - info: Execution took 753 ms, user function completed successfully
+2018-04-13T12:48:48.999Z - info: [0mGET /academy [32m200 [0m733.166 ms - -[0m
+2018-04-13T12:48:55.007Z - info: User function triggered, starting execution
+2018-04-13T12:48:55.090Z - info: Execution took 83 ms, user function completed successfully
+[0mGET /academy [32m200 [0m52.485 ms - -[0m
+2018-04-13T12:49:19.195Z - info: User function triggered, starting execution
+2018-04-13T12:49:19.972Z - info: Execution took 779 ms, user function completed successfully
+2018-04-13T12:49:19.975Z - info: [0mGET /academy [32m200 [0m724.873 ms - -[0m
+2018-04-13T12:50:29.180Z - info: User function triggered, starting execution
+2018-04-13T12:50:29.980Z - info: Execution took 801 ms, user function completed successfully
+2018-04-13T12:50:29.983Z - info: [0mGET /academy [32m200 [0m770.704 ms - -[0m
+2018-04-13T12:51:35.005Z - info: User function triggered, starting execution
+2018-04-13T12:51:35.770Z - error: Error: /Users/shibaji/Documents/GitHub/larnr-academy/functions/views/util.pug:24:13
+    22| 
+    23| mixin cardPrimary(cHeader, cTitle, cParagraph, no=12)
+  > 24|     .col-md-#{no}
+--------------------^
+    25|         .card.border-primary.mb-3
+    26|             .card-header=cHeader
+    27|             .card-body
+
+Unexpected token `interpolation` expected `text`, `interpolated-code`, `code`, `:`, `slash`, `newline` or `eos`
+    at makeError (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-error/index.js:32:13)
+    at Parser.error (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:53:15)
+    at Parser.tag (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:1065:14)
+    at Parser.parseTag (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:977:17)
+    at Parser.parseExpr (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:202:21)
+    at Parser.parseExpr (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:253:21)
+    at Parser.block (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:930:25)
+    at Parser.parseMixin (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:863:21)
+    at Parser.parseExpr (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:204:21)
+    at Parser.parse (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-parser/index.js:112:25)
+2018-04-13T12:51:35.784Z - info: Execution took 780 ms, user function completed successfully
+2018-04-13T12:51:35.787Z - info: [0mGET /academy [31m500 [0m752.878 ms - -[0m
+2018-04-13T12:52:27.737Z - error: Function worker killed by signal: SIGTERM
+2018-04-13T12:52:32.094Z - info: User function triggered, starting execution
+2018-04-13T12:52:32.826Z - error: Error: /Users/shibaji/Documents/GitHub/larnr-academy/functions/views/util.pug:24:25
+    22| 
+    23| mixin cardPrimary(cHeader, cTitle, cParagraph, no=12)
+  > 24|     div(class ="col-md-"#{no})
+--------------------------------^
+    25|         .card.border-primary.mb-3
+    26|             .card-header=cHeader
+    27|             .card-body
+
+Syntax Error: Unexpected character '#'
+    at makeError (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-error/index.js:32:13)
+    at Lexer.error (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:58:15)
+    at Lexer.assertExpression (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:86:12)
+    at Lexer.attrs (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1089:18)
+    at Lexer.callLexerFunction (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1319:23)
+    at Lexer.advance (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1356:15)
+    at Lexer.callLexerFunction (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1319:23)
+    at Lexer.getTokens (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1375:12)
+    at lex (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:12:42)
+    at Object.lex (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug/lib/index.js:99:27)
+2018-04-13T12:52:32.850Z - info: Execution took 757 ms, user function completed successfully
+2018-04-13T12:52:32.852Z - info: [0mGET /academy [31m500 [0m719.737 ms - -[0m
+2018-04-13T12:52:43.045Z - error: Function worker killed by signal: SIGTERM
+2018-04-13T12:52:46.172Z - info: User function triggered, starting execution
+2018-04-13T12:52:46.856Z - error: Error: /Users/shibaji/Documents/GitHub/larnr-academy/functions/views/util.pug:24:25
+    22| 
+    23| mixin cardPrimary(cHeader, cTitle, cParagraph, no=12)
+  > 24|     div(class= "col-md-"#{no})
+--------------------------------^
+    25|         .card.border-primary.mb-3
+    26|             .card-header=cHeader
+    27|             .card-body
+
+Syntax Error: Unexpected character '#'
+    at makeError (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-error/index.js:32:13)
+    at Lexer.error (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:58:15)
+    at Lexer.assertExpression (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:86:12)
+    at Lexer.attrs (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1089:18)
+    at Lexer.callLexerFunction (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1319:23)
+    at Lexer.advance (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1356:15)
+    at Lexer.callLexerFunction (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1319:23)
+    at Lexer.getTokens (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:1375:12)
+    at lex (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug-lexer/index.js:12:42)
+    at Object.lex (/Users/shibaji/Documents/GitHub/larnr-academy/functions/node_modules/pug/lib/index.js:99:27)
+2018-04-13T12:52:46.857Z - info: Execution took 685 ms, user function completed successfully
+2018-04-13T12:52:46.873Z - info: [0mGET /academy [31m500 [0m670.142 ms - -[0m
+2018-04-13T12:52:55.835Z - error: Function worker killed by signal: SIGTERM
+2018-04-13T12:53:00.819Z - info: User function triggered, starting execution
+2018-04-13T12:53:01.575Z - info: Execution took 757 ms, user function completed successfully
+2018-04-13T12:53:01.577Z - info: [0mGET /academy [32m200 [0m704.762 ms - -[0m
+2018-04-13T12:54:41.285Z - info: User function triggered, starting execution
+2018-04-13T12:54:42.045Z - info: Execution took 762 ms, user function completed successfully
+2018-04-13T12:54:42.048Z - info: [0mGET /academy [32m200 [0m695.879 ms - -[0m
+2018-04-13T12:55:14.110Z - info: User function triggered, starting execution
+2018-04-13T12:55:14.527Z - info: Execution took 420 ms, user function completed successfully
+2018-04-13T12:55:14.529Z - info: [0mGET /academy [32m200 [0m363.220 ms - -[0m
+2018-04-13T12:56:37.437Z - info: User function triggered, starting execution
+2018-04-13T12:56:37.922Z - info: Execution took 485 ms, user function completed successfully
+2018-04-13T12:56:37.932Z - info: [0mGET /academy [32m200 [0m455.945 ms - -[0m
+2018-04-13T12:56:56.457Z - info: User function triggered, starting execution
+2018-04-13T12:56:56.936Z - info: Execution took 480 ms, user function completed successfully
+2018-04-13T12:56:56.937Z - info: [0mGET /academy [32m200 [0m424.262 ms - -[0m

@@ -1,4 +1,11 @@
 extends layout
 
 block content
-    h1 This is the test page
+    +adminnav
+    .container-fluid
+        .row
+            +cardPrimary("This is "+title)
+        .row
+            +cardPrimary("Page Title", "Here input the content", "Sample Page 1", 4)
+            +cardPrimary("Page Title", "Here input the content", "Sample Page 2", 4)
+            +cardPrimary("Page Title", "Here input the content", "Sample Page 3", 4)
