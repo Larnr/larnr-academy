@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  .container.text-center.error-pad
+    h1= message
+    h2= error.status
+    pre #{error.stack}
+
+block styles
+  style .error-pad{padding:200px}

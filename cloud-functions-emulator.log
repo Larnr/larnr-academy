@@ -1,0 +1,152 @@
+2018-04-13T05:46:25.751Z - info: User function triggered, starting execution
+2018-04-13T05:46:25.775Z - info: Execution took 23 ms, user function completed successfully
+2018-04-13T05:46:25.778Z - info: [0mGET / [33m404 [0m9.291 ms - 139[0m
+2018-04-13T05:46:53.963Z - info: Worker for myApp closed due to file changes.
+2018-04-13T05:53:33.378Z - info: User function triggered, starting execution
+2018-04-13T05:53:33.400Z - info: Execution took 22 ms, user function completed successfully
+2018-04-13T05:53:33.401Z - info: [0mGET /test [32m200 [0m7.354 ms - 24[0m
+2018-04-13T05:53:43.133Z - info: User function triggered, starting execution
+2018-04-13T05:53:43.149Z - info: Execution took 16 ms, user function completed successfully
+2018-04-13T05:53:43.151Z - info: [0mGET /test [32m200 [0m5.720 ms - 24[0m
+2018-04-13T05:55:33.818Z - info: User function triggered, starting execution
+2018-04-13T05:55:33.833Z - info: Execution took 19 ms, user function completed successfully
+2018-04-13T05:55:33.835Z - info: [0mGET /test [32m200 [0m6.353 ms - 24[0m
+2018-04-13T05:55:43.275Z - info: User function triggered, starting execution
+2018-04-13T05:55:43.287Z - info: Execution took 13 ms, user function completed successfully
+2018-04-13T05:55:43.291Z - info: [0mGET /data [32m200 [0m4.147 ms - 33[0m
+2018-04-13T05:55:51.988Z - info: User function triggered, starting execution
+2018-04-13T05:55:51.991Z - info: Execution took 2 ms, user function completed successfully
+[0mGET /test [32m200 [0m0.810 ms - 24[0m
+2018-04-13T05:57:13.875Z - info: Worker for myApp closed due to file changes.
+2018-04-13T05:59:25.661Z - info: User function triggered, starting execution
+2018-04-13T05:59:25.680Z - info: Execution took 20 ms, user function completed successfully
+2018-04-13T05:59:25.701Z - info: [0mGET /test [32m200 [0m5.490 ms - 24[0m
+2018-04-13T05:59:35.111Z - info: User function triggered, starting execution
+2018-04-13T05:59:35.115Z - info: Execution took 3 ms, user function completed successfully
+[0mGET /test [32m200 [0m0.903 ms - 24[0m
+2018-04-13T06:02:59.665Z - info: User function triggered, starting execution
+2018-04-13T06:02:59.923Z - info: Execution took 262 ms, user function completed successfully
+2018-04-13T06:02:59.958Z - info: [0mGET /test [32m200 [0m11.562 ms - 24[0m
+2018-04-13T06:03:57.800Z - info: User function triggered, starting execution
+2018-04-13T06:03:58.577Z - info: Execution took 781 ms, user function completed successfully
+2018-04-13T06:03:58.579Z - info: [0mGET /test [32m200 [0m768.883 ms - 281[0m
+2018-04-13T06:03:59.753Z - info: User function triggered, starting execution
+2018-04-13T06:03:59.797Z - info: Execution took 44 ms, user function completed successfully
+2018-04-13T06:03:59.800Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m33.774 ms - -[0m
+2018-04-13T06:04:09.706Z - info: User function triggered, starting execution
+2018-04-13T06:04:09.737Z - info: Execution took 30 ms, user function completed successfully
+[0mGET /test [32m200 [0m28.438 ms - 281[0m
+2018-04-13T06:04:10.794Z - info: User function triggered, starting execution
+2018-04-13T06:04:10.830Z - info: Execution took 35 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m32.090 ms - -[0m
+2018-04-13T06:12:12.151Z - info: Worker for myApp closed due to file changes.
+2018-04-13T06:12:21.136Z - info: User function triggered, starting execution
+2018-04-13T06:12:21.892Z - info: Execution took 758 ms, user function completed successfully
+2018-04-13T06:12:21.908Z - info: [0mGET /test [32m200 [0m745.815 ms - 281[0m
+2018-04-13T06:12:23.202Z - info: User function triggered, starting execution
+2018-04-13T06:12:23.249Z - info: Execution took 48 ms, user function completed successfully
+2018-04-13T06:12:23.249Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m39.087 ms - -[0m
+2018-04-13T06:12:39.073Z - info: User function triggered, starting execution
+2018-04-13T06:12:39.097Z - info: Execution took 23 ms, user function completed successfully
+[0mGET /test [32m200 [0m22.384 ms - 281[0m
+2018-04-13T06:12:40.016Z - info: User function triggered, starting execution
+2018-04-13T06:12:40.066Z - info: Execution took 50 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m43.669 ms - -[0m
+2018-04-13T06:12:59.763Z - info: User function triggered, starting execution
+2018-04-13T06:12:59.782Z - info: Execution took 18 ms, user function completed successfully
+[0mGET /test [32m200 [0m17.311 ms - 281[0m
+2018-04-13T06:13:00.986Z - info: User function triggered, starting execution
+2018-04-13T06:13:01.045Z - info: Execution took 59 ms, user function completed successfully
+2018-04-13T06:13:01.046Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m50.525 ms - -[0m
+2018-04-13T06:13:34.742Z - info: User function triggered, starting execution
+2018-04-13T06:13:35.487Z - info: Execution took 747 ms, user function completed successfully
+2018-04-13T06:13:35.510Z - info: [0mGET /test [32m200 [0m735.550 ms - 282[0m
+2018-04-13T06:13:36.481Z - info: User function triggered, starting execution
+2018-04-13T06:13:36.525Z - info: Execution took 44 ms, user function completed successfully
+2018-04-13T06:13:36.526Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m36.069 ms - -[0m
+2018-04-13T06:13:45.324Z - info: User function triggered, starting execution
+2018-04-13T06:13:45.346Z - info: Execution took 22 ms, user function completed successfully
+[0mGET /test [32m200 [0m21.143 ms - 282[0m
+2018-04-13T06:13:46.284Z - info: User function triggered, starting execution
+2018-04-13T06:13:46.330Z - info: Execution took 46 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m43.328 ms - -[0m
+2018-04-13T06:16:11.674Z - info: User function triggered, starting execution
+2018-04-13T06:16:11.700Z - info: Execution took 26 ms, user function completed successfully
+[0mGET /test [32m200 [0m24.346 ms - 282[0m
+2018-04-13T06:16:12.704Z - info: User function triggered, starting execution
+2018-04-13T06:16:12.742Z - info: Execution took 37 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m34.072 ms - -[0m
+2018-04-13T06:16:17.312Z - info: User function triggered, starting execution
+2018-04-13T06:16:17.340Z - info: Execution took 27 ms, user function completed successfully
+[0mGET /test [32m200 [0m26.050 ms - 282[0m
+2018-04-13T06:16:18.282Z - info: User function triggered, starting execution
+2018-04-13T06:16:18.313Z - info: Execution took 30 ms, user function completed successfully
+2018-04-13T06:16:18.316Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m28.714 ms - -[0m
+2018-04-13T06:16:30.729Z - info: User function triggered, starting execution
+2018-04-13T06:16:30.756Z - info: Execution took 27 ms, user function completed successfully
+[0mGET /test [32m200 [0m25.402 ms - 282[0m
+2018-04-13T06:16:31.733Z - info: User function triggered, starting execution
+2018-04-13T06:16:31.761Z - info: Execution took 27 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m25.412 ms - -[0m
+2018-04-13T06:16:38.795Z - info: User function triggered, starting execution
+2018-04-13T06:16:38.797Z - info: Execution took 1 ms, user function completed successfully
+[0mGET /data [32m200 [0m0.393 ms - 33[0m
+2018-04-13T06:16:42.600Z - info: User function triggered, starting execution
+Execution took 1 ms, user function completed successfully
+[0mGET /data [32m200 [0m0.337 ms - 33[0m
+2018-04-13T06:17:10.893Z - info: Worker for myApp closed due to file changes.
+2018-04-13T06:17:33.753Z - info: User function triggered, starting execution
+2018-04-13T06:17:34.489Z - info: Execution took 736 ms, user function completed successfully
+2018-04-13T06:17:34.506Z - info: [0mGET /data [32m200 [0m721.099 ms - 282[0m
+2018-04-13T06:17:35.529Z - info: User function triggered, starting execution
+2018-04-13T06:17:35.571Z - info: Execution took 43 ms, user function completed successfully
+2018-04-13T06:17:35.571Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m34.934 ms - -[0m
+2018-04-13T06:17:40.296Z - info: User function triggered, starting execution
+2018-04-13T06:17:40.323Z - info: Execution took 26 ms, user function completed successfully
+[0mGET /data [32m200 [0m25.116 ms - 282[0m
+2018-04-13T06:17:41.695Z - info: User function triggered, starting execution
+2018-04-13T06:17:41.774Z - info: Execution took 77 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m37.672 ms - -[0m
+2018-04-13T06:17:43.683Z - info: User function triggered, starting execution
+2018-04-13T06:17:43.716Z - info: Execution took 32 ms, user function completed successfully
+[0mGET /data [32m200 [0m31.388 ms - 282[0m
+2018-04-13T06:17:44.611Z - info: User function triggered, starting execution
+2018-04-13T06:17:44.635Z - info: Execution took 24 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m21.678 ms - -[0m
+2018-04-13T06:17:48.768Z - info: User function triggered, starting execution
+2018-04-13T06:17:48.788Z - info: Execution took 22 ms, user function completed successfully
+[0mGET /data [32m200 [0m21.321 ms - 282[0m
+2018-04-13T06:17:49.722Z - info: User function triggered, starting execution
+2018-04-13T06:17:49.754Z - info: Execution took 32 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m29.197 ms - -[0m
+2018-04-13T06:17:53.320Z - info: User function triggered, starting execution
+2018-04-13T06:17:53.343Z - info: Execution took 24 ms, user function completed successfully
+[0mGET /data [32m200 [0m23.407 ms - 282[0m
+2018-04-13T06:17:54.274Z - info: User function triggered, starting execution
+2018-04-13T06:17:54.307Z - info: Execution took 32 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m31.037 ms - -[0m
+2018-04-13T06:22:21.320Z - info: User function triggered, starting execution
+2018-04-13T06:22:21.974Z - info: Execution took 655 ms, user function completed successfully
+2018-04-13T06:22:21.977Z - info: [0mGET /data [32m200 [0m644.290 ms - 282[0m
+2018-04-13T06:22:23.176Z - info: User function triggered, starting execution
+2018-04-13T06:22:23.210Z - info: Execution took 35 ms, user function completed successfully
+2018-04-13T06:22:23.210Z - info: [0mGET /js/bootstrap.min.js.map [33m404 [0m27.349 ms - -[0m
+2018-04-13T06:22:24.642Z - info: User function triggered, starting execution
+2018-04-13T06:22:24.662Z - info: Execution took 20 ms, user function completed successfully
+[0mGET /data [32m200 [0m18.999 ms - 282[0m
+2018-04-13T06:22:25.741Z - info: User function triggered, starting execution
+2018-04-13T06:22:25.829Z - info: Execution took 87 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m41.136 ms - -[0m
+2018-04-13T06:22:33.100Z - info: User function triggered, starting execution
+2018-04-13T06:22:33.120Z - info: Execution took 20 ms, user function completed successfully
+[0mGET /test [32m200 [0m18.641 ms - 282[0m
+2018-04-13T06:22:34.801Z - info: User function triggered, starting execution
+2018-04-13T06:22:34.826Z - info: Execution took 30 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m26.249 ms - -[0m
+2018-04-13T06:24:09.145Z - info: Worker for myApp closed due to file changes.
+2018-04-13T06:24:16.680Z - info: User function triggered, starting execution
+2018-04-13T06:24:17.456Z - info: Execution took 777 ms, user function completed successfully
+2018-04-13T06:24:17.462Z - info: [0mGET /test1 [33m404 [0m745.022 ms - -[0m
+2018-04-13T06:24:18.618Z - info: User function triggered, starting execution
+2018-04-13T06:24:18.649Z - info: Execution took 30 ms, user function completed successfully
+[0mGET /js/bootstrap.min.js.map [33m404 [0m27.596 ms - -[0m

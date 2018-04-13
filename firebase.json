@@ -21,7 +21,8 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/index.html"
+        "function": "myApp"
+        // "destination": "/index.html"
       }
     ]
   },
