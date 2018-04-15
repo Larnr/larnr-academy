@@ -20,11 +20,12 @@ mixin adminnav
                 button.btn.btn-secondary.my-2.my-sm-0(type='submit') Search
 
 
-mixin cardPrimary(cTitle, cParagraph, cHeader, no=12)
-    div(class= "col-md-"+no)
+mixin cardPrimary(card)
+    - c = card || {no:12}
+    div(class= "col-md-"+c.no)
         .card.border-primary.mb-3
-            if cHeader
-                .card-header=cHeader
+            if c.header
+                .card-header=c.header
             .card-body
-                h4.card-title=cTitle
-                p.card-text=cParagraph
+                h4.card-title=c.title
+                p.card-text=c.paragraph

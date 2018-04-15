@@ -1,4 +1,4 @@
-extends layout
+extends ../layout
 
 block content
     +adminnav
@@ -6,6 +6,6 @@ block content
         .row
             +cardPrimary({title: 'This is '+title, no: 12})
         .row
-            +cardPrimary({ no:4, title: "Page Title", paragraph: "Here input the content", header:"Sample Page 1"})
+            +cardPrimary({ no:4, paragraph: "Here input the content", header:"Sample Page 1"})
             +cardPrimary({ title:"Page Title", paragraph:"Here input the content", header: "Sample Page 2", no:4 })
             +cardPrimary({ title: "Page Title", paragraph:"Here input the content", header: "Sample Page 3", no:4 })
