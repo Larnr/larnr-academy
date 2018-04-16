@@ -27,5 +27,8 @@ mixin cardPrimary(card)
             if c.header
                 .card-header=c.header
             .card-body
-                h4.card-title=c.title
-                p.card-text=c.paragraph
+                if c.body
+                    div !{c.body}
+                else
+                    h4.card-title=c.title
+                    p.card-text=c.paragraph
