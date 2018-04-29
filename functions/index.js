@@ -12,6 +12,7 @@ var bodyParser = require('body-parser');
 // Router Links
 var index = require('./routes/index');
 var academy = require('./routes/academy');
+var api = require('./routes/api');
 
 
 var app = express();
@@ -33,6 +34,7 @@ app.use(cookieParser());
 // module links
 app.use('/', index);
 app.use('/academy', academy);
+app.use('/api', api);
 
 
 
